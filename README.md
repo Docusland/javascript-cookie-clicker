@@ -54,30 +54,36 @@ Faire en sorte que les boutons multiplicateur, autoclic et bonus ne soient clica
 Que ce soit beau !
 
 ## Ajout de fonctionnalités plus abouties
+Une fois que vous êtes parvenu(e) à réaliser l'ensemble des étapes pécédentes, vous pouvez rajouter des fonctionnalités plus avancées, afin d'en faire un projet vraiment agréable à présenter.
 
 ### Avoir des textes aléatoires
-En fonction du nombre de cookies cumulés depuis le début de la partie, faites apparaître des textes. 
+En fonction du nombre de cookies cumulés depuis le début de la partie, faites apparaître des textes publicitaires pour vos cookies. 
 Ces textes changeront automatiquement après un délai d'une dizaine de secondes. Ils seront générés aléatoirement à partir d'une liste conçue par vos soins.
+
+Certains textes ne peuvent apparaître qu'à partir d'un certain nombre de cookies cumulés depuis le début de la parties (ceux dépensés comptent également )
 
 ### Utilisation de fetch afin de lire les textes aléatoires depuis un fichier extérieur
 
 ### Avoir des cookies dorés
-Faîtes apparaître à intervalle irrégulière, des cookies au sein de votre page web.
+Faîtes apparaître à intervalle irrégulière, des cookies au sein de votre page web. Ils apparaîtront sur une zone aléatoire de l'écran.
+
 Si l'utilisateur clique dessus, celà déclenchera soit : 
   - Un multiplicateur démentiel pendant quelques instants
   - Des autoclickers boostés
   - Un gain immédiat de cookies
+  - ...
 
-### A chaque fois que l'utilisateur atteint une multiple de mille
+### A chaque fois que l'utilisateur atteint une puissance de mille
 
-A chaque fois que l'utilisateur atteint une multiple de mille, une pluie de coockies tombe du ciel.
+A chaque fois que l'utilisateur atteint une puissance de mille (1 000,1 000 000, 1 000 000 000, ...), une pluie de coockies tombe du ciel.
+Vous pouvez également faire varier le décors.
 
 ### Ajoutez des animations
 
  - A chaque click, faites apparaître un `+1` qui slide puis disparait
  - A chaque click, faites en sorte que le cookie s'anime un peu
  - Ajoutez une petite musique d'ambiance
- - Ajoutez un bruitage à chaque click souris
+ - Ajoutez un bruitage à chaque click souris ou lors de l'achat d'un bonus.
 
 ### Ajoutez la possibilité de sauvegarder votre partie
  - Utilisez le localStorage
