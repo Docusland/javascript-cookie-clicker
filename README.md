@@ -89,5 +89,5 @@ Vous pouvez également faire varier le décors.
  - Utilisez le localStorage
 
 ### Ajoutez la possibilité de sauvegarder vos scores
- - Connectez vous à une base de données en ligne (airtable par exemple) et permettez aux utilisateurs de stockers leurs scores. 
+ - Connectez vous à une base de données en ligne ([airtable](https://airtable.com/) par exemple) et permettez aux utilisateurs de stockers leurs scores. 
  - Ajoutez les derniers scores ainsi que les meilleurs scores au sein de votre interface.
